@@ -37,3 +37,8 @@ all video changes are sitting in a separte branch
 note to self, refresh on git commands and optimize project procedures
 
 Now will Merge video-page with main branch and test
+
+changed to a beige background with black text to see if it looks better
+and adjusted the positioning of the videos
+
+I think next i want to add different pages on the side for other stuff i want to add
